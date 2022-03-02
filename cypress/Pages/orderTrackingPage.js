@@ -25,4 +25,8 @@ export class OrderTrackingPage {
         cy.get(this.OrderTrackingPage_clickTrackButton).click()
     }
 
+    // verifyOrderType(){
+    //     cy.get(this.OrderTrackingPage_clickTrackButton).click()
+    // }
+
 }
